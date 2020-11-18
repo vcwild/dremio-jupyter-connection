@@ -129,6 +129,14 @@ df.head()
 </table>
 </div>
 
+## Requirements
+- [Docker](https://docs.docker.com/get-docker/)
+- Venv or Conda environment
+- [Pip](https://pip.pypa.io/en/stable/installing/)
+- Dremio Data Lake [Standalone](https://docs.dremio.com/quickstart/standalone-quickstart.html) Community or Enterprise Edition
+- Dremio ODBC compatible [driver](https://www.dremio.com/drivers/)
+- Python [packages](./requirements.txt)
+
 ### References
 
-DREMIO - The Data Lake Engine [docs](https://docs.dremio.com/)
+*DREMIO - The Data Lake Engine [docs](https://docs.dremio.com/).*
