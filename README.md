@@ -1,4 +1,4 @@
-# Plug DREMIO Data Lake Drive into Jupyter Notebooks
+# Plug DREMIO Data Lake Driver into Jupyter Notebooks
 
 ## Standalone Container
 
