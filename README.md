@@ -133,9 +133,9 @@ df.head()
 - [Docker](https://docs.docker.com/get-docker/)
 - Venv or Conda environment
 - [Pip](https://pip.pypa.io/en/stable/installing/)
-- Dremio Data Lake [Standalone](https://docs.dremio.com/quickstart/standalone-quickstart.html) Community or Enterprise Edition
-- Dremio ODBC compatible [driver](https://www.dremio.com/drivers/)
-- Python [packages](./requirements.txt)
+- [Dremio Data Lake Standalone](https://docs.dremio.com/quickstart/standalone-quickstart.html) Community or Enterprise Edition
+- [Dremio ODBC compatible driver](https://www.dremio.com/drivers/)
+- [Python package requirements](./requirements.txt)
 
 ### References
 
