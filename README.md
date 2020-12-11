@@ -15,7 +15,7 @@ host = 'localhost'
 port = 31010
 uid = credentials.user
 pwd = credentials.password
-driver = '/opt/dremio-odbc/lib64/libdrillodbc_sb64.so'
+driver = '/opt/dremio-odbc/lib64/libdrillodbc_sb64.so' # ubuntu/debian default odbc driver
 cnxn = pyodbc.connect("Driver={};ConnectionType=Direct;HOST={};PORT={};AuthenticationType=Plain;UID={};PWD={};".format(driver, host, port, uid, pwd), autocommit=True)
 ```
 
