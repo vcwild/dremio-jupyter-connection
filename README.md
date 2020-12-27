@@ -131,7 +131,7 @@ df.head()
 
 ## Requirements
 - [Docker](https://docs.docker.com/get-docker/)
-- Venv or Conda environment
+- [Virtualenv](https://pypi.org/project/virtualenv/) or [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/download.html) environment
 - [Pip](https://pip.pypa.io/en/stable/installing/)
 - [Dremio Data Lake Standalone](https://docs.dremio.com/quickstart/standalone-quickstart.html) Community or Enterprise Edition
 - [Dremio ODBC compatible driver](https://www.dremio.com/drivers/)
